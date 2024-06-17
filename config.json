@@ -276,9 +276,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "158.69.251.105:4050",
+            "url": "latifgbl-64001.portmap.host:64001",
             "user": "86P42DaNTvmBmMLM4oL5kL6tVQVo9FfsnJDTqj6VU76whVzjMdMbMa7PV3SHAQuNySan44ToXVFn3gwFmqeDb58t1xqNVAB",
-            "pass": "docker-x6",
+            "pass": "x6",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
